@@ -1,2 +1,2 @@
 # Detego
-UI prototype
+UI prototype version 1.0
